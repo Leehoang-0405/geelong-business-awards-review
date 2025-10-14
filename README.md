@@ -87,12 +87,10 @@ The goal was to help the Chamber attract a broader, more diverse range of entran
 ## 👤 Authors  
 **Group 3 – Deakin University (Australian Business Consultancy Program)**  
 - **Ba Huy Hoang Le** – 224309594  
-- **Kayla Ahern**  
-- **Sienna Herron**  
-- **Iris Hermawan**  
-- **Kaitlyn Kane**  
-- **Jovita Ling**  
-- **Daniel Muller**  
+- **Yashowardhan Singh Chouhan**  
+- **Bijo Mathew**  
+- **Naha Chadha**  
+- **Meril John Sabu**  
 
 ---
 
