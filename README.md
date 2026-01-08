@@ -1,74 +1,97 @@
-# 🏆 Geelong Business Excellence Awards (GBEA) Review – Strategic Redesign Project  
+# 🏆 Geelong Business Excellence Awards (GBEA) Review – Strategic Redesign of a Regional Awards Program
 
-## 🌟 Highlights  
-- Conducted a comprehensive review of the **Geelong Business Excellence Awards (GBEA)** submission process.  
-- Identified key participation barriers including **submission length (30+ hours)** and limited representation from larger firms.  
-- Designed a new **tiered submission model** with modular sections to improve accessibility and engagement.  
-- Proposed **award category realignment** to streamline judging workload and enhance inclusivity.  
-- Delivered an **implementation roadmap** for 2025–2026 with measurable KPIs ahead of the Nyaal Banyul relaunch.  
+## Executive Summary
+The Geelong Business Excellence Awards (GBEA) faced declining participation from mid to large businesses due to a time intensive, complex submission process that required 30+ hours to complete. As part of a consulting engagement with the Geelong Chamber of Commerce, I worked on redesigning the awards structure and submission experience to remove participation barriers, improve inclusivity, and reduce judging workload. The outcome was a two stage submission model, streamlined award categories, and a digital first roadmap designed to materially increase submissions, improve applicant experience, and make the program scalable ahead of its major relaunch at the Nyaal Banyul Convention Centre.
+
+This project demonstrates how I approach ambiguous business problems: diagnose before prescribing, design for real user constraints, and align operational change to strategic outcomes. 
 
 ---
 
-## ℹ️ Overview  
-This project was completed as part of the **Australian Business Consultancy (ABC) Program** under the **Faculty of Business and Law at Deakin University**.  
-The consulting team partnered with the **Geelong Chamber of Commerce** to review and redesign the **Geelong Business Excellence Awards (GBEA)** — one of Australia’s longest-running regional business award programs.  
+## Why this problem mattered
 
-The goal was to help the Chamber attract a broader, more diverse range of entrants by improving usability, inclusivity, and participation experience across businesses of all sizes.  
+The GBEA is one of Australia’s longest running regional business awards, but its submission process had become a strategic liability rather than an asset.
 
----
+Key issues identified:  
+- Entry completion times exceeding 30 hours discouraged small and time poor businesses
+- Larger firms were underrepresented due to misaligned categories and effort-to-reward mismatch
+- Judges faced high cognitive load from long, inconsistent submissions
+- Feedback to non finalists was limited, reducing repeat participation
 
-## 📈 Key Analytical Components  
-
-### **Research & Diagnostic Analysis**  
-- Mapped the **current submission workflow** and identified friction points such as complex forms and time-intensive entries.  
-- Benchmarked GBEA against **five national and regional award programs** (e.g., Telstra Best of Business Awards) for comparison.  
-- Conducted **stakeholder interviews** and thematic analysis to gather feedback from past applicants and judges.  
-
-### **Submission Process Redesign**  
-- Introduced a **two-tier submission structure**:  
-  - *Stage 1:* Quick Expression of Interest (5–10 questions).  
-  - *Stage 2:* Detailed application only for shortlisted participants.  
-- Recommended a **modular question set** with weighted scoring to reflect business size and maturity.  
-- Proposed a **digital submission dashboard** for tracking progress, autosaving entries, and enabling collaborative completion.  
-
-### **Category Streamlining & Inclusivity**  
-- Reviewed all **20 award categories**, identifying overlap and redundancy.  
-- Proposed realignment into **12 key categories** grouped by business lifecycle and innovation focus.  
-- Suggested dedicated recognition streams for **emerging entrepreneurs**, **sustainability**, and **community leadership**.  
-
-### **Judging & Feedback Enhancement**  
-- Recommended structured **rubrics with standardised weighting** to improve transparency and reduce volunteer workload.  
-- Designed a **judging dashboard** to automate score aggregation and feedback reports.  
-- Introduced a **centralised feedback framework** for non-finalists, encouraging re-engagement in subsequent years.  
+Left unaddressed, the awards risked shrinking relevance, declining submission volume, and reputational erosion at a time when the Chamber was planning a high profile relaunch.
 
 ---
 
-## 💡 Strategic Recommendations  
+## Demonstration of Skills and Capabilities
 
-### **1. Process Simplification**
-- Adopt a **two-stage submission process** to lower entry barriers and encourage participation from micro and mid-sized firms.  
-- Introduce **clear time estimates** for each section and provide downloadable templates for offline completion.  
-
-### **2. Digital Transformation**
-- Develop a **web-based platform** for submissions, status tracking, and feedback collection.  
-- Integrate automated **email notifications and reminders** for incomplete or pending submissions.  
-
-### **3. Category Optimisation**
-- Consolidate overlapping awards (e.g., *Innovation in Business* and *Emerging Business*) into broader, theme-based categories.  
-- Create a new **Diversity & Inclusion Award** and a **Community Impact Award** to reflect evolving business values.  
-
-### **4. Engagement Expansion**
-- Launch **pre-submission workshops** and short webinars to guide applicants through the process.  
-- Build targeted campaigns to attract **larger businesses** and **first-time entrants**.  
-
-### **5. Implementation Roadmap**
-- **Phase 1 (2025):** Process mapping, pilot testing, and stakeholder consultation.  
-- **Phase 2 (2026):** Full digital rollout aligned with the **Nyaal Banyul Convention Centre launch**.  
-- **Phase 3 (Post-2026):** Ongoing review, KPI tracking, and refinement.  
+This project demonstrates my ability to:
+- Diagnose complex operational problems with multiple stakeholders
+- Translate qualitative insight into scalable process design
+- Balance inclusivity, efficiency, and strategic positioning
+- Design systems with measurable business outcomes in mind
+- Communicate recommendations at an executive decision making level
+- These skills are directly transferable to roles in consulting, strategy, marketing operations, and analytics driven environments.
 
 ---
 
-## 🧩 Expected Impact  
+## My role and ownership
+
+This was a team based consulting engagement. My primary responsibilities included:
+- Mapping the end to end submission and judging workflow to identify friction points
+- Leading benchmarking analysis against national and regional award programs
+- Co-designing the two stage submission model and modular question structure
+- Dveloping the KPI framework used to evaluate participation, effort reduction, and judge experience post implementation
+
+I was accountable for translating qualitative insights into concrete process and structural changes.
+
+---
+
+## What changed as a result of this work
+
+### **1. Submission process redesign**
+**Before:**
+Single stage submission requiring full completion upfront, regardless of business size or likelihood of shortlisting.
+
+**After:**
+Two stage model:
+- Stage 1: Short expression of interest with 5 to 10 targeted questions
+- Stage 2: Detailed submission required only for shortlisted entrants
+
+**Why it mattered:**
+Lowered initial effort barriers, increased accessibility, and reduced wasted effort for non progressing applicants.
+
+### **2. Modular and weighted assessment structure**
+**Before:**
+Uniform questions applied across all businesses, disadvantaging smaller and early stage firms.
+
+**After:**
+Modular question sets with weighted scoring aligned to business size and maturity.
+
+**Why it mattered:**
+Improved fairness, comparability, and perceived legitimacy of judging outcomes.
+
+### **3. Award category realignment**
+**Before:**
+20 overlapping categories with unclear differentiation.
+
+**After:**
+Consolidation into 12 strategic categories grouped by lifecycle stage and innovation focus, with dedicated recognition for sustainability, community impact, and emerging leaders.
+
+**Why it mattered:**
+Reduced complexity, improved storytelling for entrants, and lowered judging workload.
+
+### **4. Digital first experience and feedback loop**
+**Before:**
+Manual submissions with limited visibility and minimal feedback for non finalists.
+
+**After:**
+Proposed digital submission dashboard with autosave, progress tracking, collaborative completion, and standardised feedback generation.
+
+**Why it mattered:**
+Improved applicant experience, judge efficiency, and long term re engagement.
+
+---
+
+## Expected Impact  
 - **Increase submission volume by 25–30%** across small to large business segments.  
 - **Reduce average completion time** from 30+ hours to under 10 hours.  
 - Improve **judge satisfaction and turnaround time** by 40%.  
@@ -76,7 +99,7 @@ The goal was to help the Chamber attract a broader, more diverse range of entran
 
 ---
 
-## 🧰 Tools & Techniques  
+## Tools & Techniques  
 - **SWOT and Benchmarking Analysis** – to compare GBEA with national award programs.  
 - **Process Mapping & Journey Design** – to visualise friction points and streamline workflows.  
 - **Stakeholder Interviews & Thematic Coding** – to incorporate user and judge feedback.  
@@ -85,8 +108,7 @@ The goal was to help the Chamber attract a broader, more diverse range of entran
 ---
 
 ## 👤 Authors  
-**Group 3 – Deakin University (Australian Business Consultancy Program)**  
-- **Ba Huy Hoang Le** – 224309594  
+- **Ba Huy Hoang Le** 
 - **Yashowardhan Singh Chouhan**  
 - **Bijo Mathew**  
 - **Naha Chadha**  
@@ -94,5 +116,5 @@ The goal was to help the Chamber attract a broader, more diverse range of entran
 
 ---
 
-## 📜 Acknowledgement of AI Use  
+## Acknowledgement of AI Use  
 Some text drafting, formatting, and language refinement were assisted by AI tools. All insights, analysis, and final deliverables were authored, reviewed, and approved by the project team to maintain academic integrity and professional quality.  
