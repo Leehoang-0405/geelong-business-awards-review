@@ -1,4 +1,4 @@
-# 🏆 Geelong Business Excellence Awards (GBEA) Review – Strategic Redesign of a Regional Awards Program
+# Geelong Business Excellence Awards (GBEA) Review – Strategic Redesign of a Regional Awards Program
 
 ## Executive Summary
 The Geelong Business Excellence Awards (GBEA) faced declining participation from mid to large businesses due to a time intensive, complex submission process that required 30+ hours to complete. As part of a consulting engagement with the Geelong Chamber of Commerce, I worked on redesigning the awards structure and submission experience to remove participation barriers, improve inclusivity, and reduce judging workload. The outcome was a two stage submission model, streamlined award categories, and a digital first roadmap designed to materially increase submissions, improve applicant experience, and make the program scalable ahead of its major relaunch at the Nyaal Banyul Convention Centre.
@@ -107,7 +107,7 @@ Improved applicant experience, judge efficiency, and long term re engagement.
 
 ---
 
-## 👤 Authors  
+## Authors  
 - **Ba Huy Hoang Le** 
 - **Yashowardhan Singh Chouhan**  
 - **Bijo Mathew**  
